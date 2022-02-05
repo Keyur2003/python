@@ -1,3 +1,5 @@
+#ID:20CE122
+#NAME:KEYUR SANGHANI
 def change_case(str):
     output=''
     for character in str:
